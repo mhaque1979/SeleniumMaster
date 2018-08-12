@@ -1,0 +1,158 @@
+2018-06-28 21:37:36,406 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-06-28 21:37:36,413 [main] INFO functionLibrary.LogClass - **************************Login_into_newtour Start from here **********************
+2018-06-28 21:37:36,414 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-06-28 21:40:14,721 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-06-28 21:40:14,731 [main] INFO functionLibrary.LogClass - **************************Login_into_newtour Start from here **********************
+2018-06-28 21:40:14,733 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-06-28 21:40:19,123 [main] INFO functionLibrary.LogClass - PASS...user name entered..
+2018-06-28 21:40:19,257 [main] INFO functionLibrary.LogClass - PASS...password entered..
+2018-06-28 21:40:20,549 [main] INFO functionLibrary.LogClass - PASS... Login clicked ..
+2018-06-28 21:40:20,988 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-06-28 21:40:20,988 [main] INFO functionLibrary.LogClass - **************************Login_into_newtour end from here **********************
+2018-06-28 21:40:20,989 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 10:48:50,835 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 10:48:50,971 [main] INFO functionLibrary.LogClass - **************************Login_into_newtour Start from here **********************
+2018-07-01 10:48:50,984 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 10:55:47,730 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 10:55:47,746 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 10:55:47,747 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 10:55:53,226 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 10:57:09,345 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 10:57:09,357 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 10:57:09,357 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 10:57:14,665 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 10:57:15,704 [main] INFO functionLibrary.OpenCloseBrowser - Browser close successfully..
+2018-07-01 10:57:52,003 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 10:57:52,012 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 10:57:52,012 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 10:57:57,166 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 10:58:07,887 [main] INFO functionLibrary.OpenCloseBrowser - Browser close successfully..
+2018-07-01 11:00:08,227 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 11:00:08,239 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 11:00:08,239 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 11:00:13,512 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 11:14:05,909 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 11:14:05,923 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 11:14:05,925 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 11:14:11,392 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 11:14:11,509 [main] INFO functionLibrary.SWD_Function - PASS.. <By.name: userName> clicked successfully.
+2018-07-01 11:14:22,251 [main] INFO functionLibrary.OpenCloseBrowser - Browser close successfully..
+2018-07-01 11:19:14,498 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 11:19:14,504 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 11:19:14,504 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 11:19:19,740 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 11:19:19,892 [main] INFO functionLibrary.SWD_Function - PASS.. <ufttest01> typed successfully into <By.name: userName>
+2018-07-01 11:19:30,712 [main] INFO functionLibrary.OpenCloseBrowser - Browser close successfully..
+2018-07-01 11:23:52,668 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 11:23:52,683 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 11:23:52,684 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 11:23:58,008 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 11:23:58,145 [main] INFO functionLibrary.SWD_Function - PASS.. <ufttest01> typed successfully into <By.name: userName>
+2018-07-01 11:23:58,277 [main] INFO functionLibrary.SWD_Function - PASS.. <1234uft1> typed successfully into <By.name: password>
+2018-07-01 11:23:59,584 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@name='login']> clicked successfully.
+2018-07-01 11:24:00,412 [main] INFO functionLibrary.OpenCloseBrowser - Browser close successfully..
+2018-07-01 11:50:16,093 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 11:50:16,102 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 11:50:16,103 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 11:50:21,526 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 11:50:21,670 [main] INFO functionLibrary.SWD_Function - PASS.. <ufttest01> typed successfully into <By.name: userName>
+2018-07-01 11:50:21,794 [main] INFO functionLibrary.SWD_Function - PASS.. <1234uft1> typed successfully into <By.name: password>
+2018-07-01 11:50:23,067 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@name='login']> clicked successfully.
+2018-07-01 11:50:23,163 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.name: findFlightsdisplayed
+2018-07-01 11:50:23,260 [main] INFO functionLibrary.SWD_Function - PASS.. <By.name: tripType> clicked successfully.
+2018-07-01 11:50:23,442 [main] INFO functionLibrary.SWD_Function - PASS..<2> index item select from <By.name: passCount> dropdown
+2018-07-01 11:50:23,615 [main] INFO functionLibrary.SWD_Function - PASS..<New York> select from <By.name: fromPort> dropdown
+2018-07-01 11:50:24,562 [main] INFO functionLibrary.OpenCloseBrowser - Browser close successfully..
+2018-07-01 11:51:47,922 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 11:51:47,934 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 11:51:47,934 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 11:51:53,149 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 11:51:53,314 [main] INFO functionLibrary.SWD_Function - PASS.. <ufttest01> typed successfully into <By.name: userName>
+2018-07-01 11:51:53,437 [main] INFO functionLibrary.SWD_Function - PASS.. <1234uft1> typed successfully into <By.name: password>
+2018-07-01 11:51:54,750 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@name='login']> clicked successfully.
+2018-07-01 11:51:54,812 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.name: findFlights displayed
+2018-07-01 11:51:54,917 [main] INFO functionLibrary.SWD_Function - PASS.. <By.name: tripType> clicked successfully.
+2018-07-01 11:51:55,090 [main] INFO functionLibrary.SWD_Function - PASS..<2> index item select from <By.name: passCount> dropdown
+2018-07-01 11:51:55,246 [main] INFO functionLibrary.SWD_Function - PASS..<New York> select from <By.name: fromPort> dropdown
+2018-07-01 11:53:21,807 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-01 11:53:21,852 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-01 11:53:21,853 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-01 11:53:27,458 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-01 11:53:27,604 [main] INFO functionLibrary.SWD_Function - PASS.. <ufttest01> typed successfully into <By.name: userName>
+2018-07-01 11:53:27,715 [main] INFO functionLibrary.SWD_Function - PASS.. <1234uft1> typed successfully into <By.name: password>
+2018-07-01 11:53:29,013 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@name='login']> clicked successfully.
+2018-07-01 11:53:29,091 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.name: findFlights displayed
+2018-07-01 11:53:29,183 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@value='oneway']> clicked successfully.
+2018-07-01 11:53:29,363 [main] INFO functionLibrary.SWD_Function - PASS..<2> index item select from <By.name: passCount> dropdown
+2018-07-01 11:53:29,506 [main] INFO functionLibrary.SWD_Function - PASS..<New York> select from <By.name: fromPort> dropdown
+2018-07-03 01:04:15,133 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-03 01:04:15,156 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-03 01:04:15,156 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-03 01:04:22,255 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-03 01:04:22,402 [main] INFO functionLibrary.SWD_Function - PASS.. <ufttest01> typed successfully into <By.name: userName>
+2018-07-03 01:04:22,485 [main] INFO functionLibrary.SWD_Function - PASS.. <1234uft1> typed successfully into <By.name: password>
+2018-07-03 01:04:23,812 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@name='login']> clicked successfully.
+2018-07-03 01:04:23,867 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.name: findFlights displayed
+2018-07-03 01:04:23,966 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@value='oneway']> clicked successfully.
+2018-07-03 01:04:24,115 [main] INFO functionLibrary.SWD_Function - PASS..<2> index item select from <By.name: passCount> dropdown
+2018-07-03 01:04:24,230 [main] INFO functionLibrary.SWD_Function - PASS..<New York> select from <By.name: fromPort> dropdown
+2018-07-03 01:39:14,584 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-03 01:39:14,599 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-03 01:39:14,599 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-03 01:39:19,769 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-03 01:39:19,894 [main] INFO functionLibrary.SWD_Function - PASS.. <ufttest01> typed successfully into <By.name: userName>
+2018-07-03 01:39:19,976 [main] INFO functionLibrary.SWD_Function - PASS.. <1234uft1> typed successfully into <By.name: password>
+2018-07-03 01:39:23,261 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@name='login']> clicked successfully.
+2018-07-03 01:39:23,316 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.name: findFlights displayed
+2018-07-03 01:39:23,393 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@value='oneway']> clicked successfully.
+2018-07-03 01:39:23,529 [main] INFO functionLibrary.SWD_Function - PASS..<2> index item select from <By.name: passCount> dropdown
+2018-07-03 01:39:23,646 [main] INFO functionLibrary.SWD_Function - PASS..<New York> select from <By.name: fromPort> dropdown
+2018-07-10 18:37:38,404 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-10 18:37:38,431 [main] INFO functionLibrary.LogClass - **************************NewLogin Start from here **********************
+2018-07-10 18:37:38,432 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-10 18:37:43,744 [main] INFO functionLibrary.OpenCloseBrowser - PASS..Chrome browser open with <http://newtours.demoaut.com/> url successfully
+2018-07-10 18:37:43,850 [main] INFO functionLibrary.SWD_Function - PASS.. <ufttest01> typed successfully into <By.name: userName>
+2018-07-10 18:37:43,924 [main] INFO functionLibrary.SWD_Function - PASS.. <1234uft1> typed successfully into <By.name: password>
+2018-07-10 18:38:35,513 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@name='login']> clicked successfully.
+2018-07-10 18:38:35,639 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.name: findFlights displayed
+2018-07-10 18:38:35,751 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //input[@value='oneway']> clicked successfully.
+2018-07-10 18:38:35,907 [main] INFO functionLibrary.SWD_Function - PASS..<2> index item select from <By.name: passCount> dropdown
+2018-07-10 18:38:36,035 [main] INFO functionLibrary.SWD_Function - PASS..<New York> select from <By.name: fromPort> dropdown
+2018-07-10 19:57:36,155 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-10 19:57:36,165 [main] INFO functionLibrary.LogClass - **************************to_Open_browser Start from here **********************
+2018-07-10 19:57:36,166 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-10 19:57:45,033 [main] INFO functionLibrary.OpenCloseBrowser - PASS..chrome browser open with <https://www.jobstreet.com> url successfully
+2018-07-10 19:57:49,277 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //a[text()='Singapore']> clicked successfully.
+2018-07-10 19:57:49,486 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.xpath: //div[@class='carousel-title']/button[text()='Free Sign Up'] displayed
+2018-07-10 19:57:49,612 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //div[@class='carousel-title']/button[text()='Free Sign Up']> clicked successfully.
+2018-07-10 19:59:57,553 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-10 19:59:57,570 [main] INFO functionLibrary.LogClass - **************************to_Open_browser Start from here **********************
+2018-07-10 19:59:57,571 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-10 20:00:06,410 [main] INFO functionLibrary.OpenCloseBrowser - PASS..chrome browser open with <https://www.jobstreet.com> url successfully
+2018-07-10 20:00:10,643 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //a[text()='Singapore']> clicked successfully.
+2018-07-10 20:00:10,721 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.xpath: //div[@class='carousel-title']/button[text()='Free Sign Up'] displayed
+2018-07-10 20:00:10,931 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //div[@class='carousel-title']/button[text()='Free Sign Up']> clicked successfully.
+2018-07-10 20:03:54,620 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-10 20:03:54,663 [main] INFO functionLibrary.LogClass - **************************to_Open_browser Start from here **********************
+2018-07-10 20:03:54,664 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-10 20:04:02,961 [main] INFO functionLibrary.OpenCloseBrowser - PASS..chrome browser open with <https://www.jobstreet.com> url successfully
+2018-07-10 20:04:08,988 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //a[text()='Singapore']> clicked successfully.
+2018-07-10 20:04:09,134 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.xpath: //div[@class='carousel-title']/button[text()='Free Sign Up'] clickable
+2018-07-10 20:04:09,385 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //div[@class='carousel-title']/button[text()='Free Sign Up']> clicked successfully.
+2018-07-10 20:05:00,285 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-07-10 20:05:00,298 [main] INFO functionLibrary.LogClass - **************************to_Open_browser Start from here **********************
+2018-07-10 20:05:00,299 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-07-10 20:05:09,065 [main] INFO functionLibrary.OpenCloseBrowser - PASS..chrome browser open with <https://www.jobstreet.com> url successfully
+2018-07-10 20:05:13,934 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //a[text()='Singapore']> clicked successfully.
+2018-07-10 20:05:14,103 [main] INFO functionLibrary.SWD_Function - PASS.. Object <By.xpath: //div[@class='carousel-title']/button[text()='Free Sign Up'] clickable
+2018-07-10 20:05:15,482 [main] INFO functionLibrary.SWD_Function - PASS.. <By.xpath: //div[@class='carousel-title']/button[text()='Free Sign Up']> clicked successfully.
+2018-08-02 19:45:15,023 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-08-02 19:45:15,108 [main] INFO functionLibrary.LogClass - **************************Login_into_newtour Start from here **********************
+2018-08-02 19:45:15,108 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-08-02 19:45:31,124 [main] INFO functionLibrary.LogClass - =================================================================================
+2018-08-02 19:45:31,145 [main] INFO functionLibrary.LogClass - **************************Login_into_newtour Start from here **********************
+2018-08-02 19:45:31,147 [main] INFO functionLibrary.LogClass - **********************************************************************************
+2018-08-02 19:51:21,794 [main] INFO functionLibrary.LogClass - PASS...password entered..
+2018-08-02 19:51:23,363 [main] INFO functionLibrary.LogClass - PASS... Login clicked ..
+2018-08-12 11:18:01,742 [main] INFO functionLibrary.LogClass - PASS...password entered..
+2018-08-12 11:18:03,264 [main] INFO functionLibrary.LogClass - PASS... Login clicked ..
